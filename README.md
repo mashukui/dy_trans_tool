@@ -109,7 +109,7 @@ def get_logger(self):
 ```
 
 # 三、演示视频
-软件使用过程演示视频：[【软件演示】抖音批量转换工具，主页链接和抖音号互转！](https://www.bilibili.com/video/BV1YV8Lz9EG8/)
+软件使用过程演示视频：[【软件演示】抖音批量转换工具，主页链接和抖音号互转！](https://mp.weixin.qq.com/s/kywWBlAEePTVNVy_fw_H3Q)
 
 # 四、付费说明
 ## 4.1 卡密说明
