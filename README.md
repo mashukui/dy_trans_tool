@@ -13,22 +13,22 @@
 软件支持以下3个功能：
 
 功能1、把个人主页链接批量转换成抖音号：
-![主页链接转抖音号](https://files.mdnice.com/user/32110/20c07aa5-6e74-4f59-88ab-836c2e10d831.png)
+![主页链接转抖音号](images/dyt_01.png)
 
 主页链接转抖音号的结果csv文件：
-![抖音转换1.csv](https://files.mdnice.com/user/32110/c9a604f6-fbb6-4b05-abf7-4afb7f84a261.png)
+![抖音转换1.csv](images/dyt_02.png)
 
 功能2、把抖音号批量转换成主页链接：
-![抖音号转主页链接](https://files.mdnice.com/user/32110/f1f8094e-2964-4479-9bbb-3210e15c58e6.png)
+![抖音号转主页链接](images/dyt_03.png)
 
 抖音号转主页链接的结果csv文件：
-![抖音转换2.csv](https://files.mdnice.com/user/32110/abc45922-9d85-4a27-90b8-baa2cd1df1a0.png)
+![抖音转换2.csv](images/dyt_04.png)
 
 功能3、把app端作品链接批量转换成pc端作品链接：
-![image](https://files.mdnice.com/user/32110/3f6fb685-97f8-4a97-ba81-e415b26c7c5f.png)
+![app端作品链接转pc端作品链接](images/dyt_05.png)
 
 app端链接转pc端链接的结果csv文件：
-![抖音转换3.csv](https://files.mdnice.com/user/32110/996c704f-6827-40a1-8983-50f3edf3662c.png)
+![抖音转换3.csv](images/dyt_06.png)
 
 以上。
 
